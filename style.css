@@ -1,9 +1,2 @@
 body {background-color:black;}
 h1{color:gray;}
-#rcorners1 {
-  border-radius: 25px;
-  background: #FFFAFA;
-  padding: 20px;
-  width: 200px;
-  height: 150px;
-}
